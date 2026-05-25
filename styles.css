@@ -388,22 +388,6 @@ body {
 @media screen and (max-width: 576px) {
   .telegram-popup {
     width: auto;
-    left: 10px;
     right: 10px;
-    top: 10px;
-  }
-
-  .telegram-popup__avatar {
-    width: 60px;
-    height: 60px;
-    font-size: 20px;
-  }
-
-  .telegram-popup__name {
-    font-size: 18px;
-  }
-
-  .telegram-popup__message {
-    font-size: 14px;
   }
 }
